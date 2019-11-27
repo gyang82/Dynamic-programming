@@ -1,1 +1,1 @@
-Open the "duonuo single dynamic.f90"£¬ compile it and run, enjoy. Some descriptions are in Chinese, if you want more detailed version, please contact Guang Yang by Email: yang_guang_whu.edu.cn or gyang82@gatech.edu
+Open the "duonuo single dynamic.f90"Â£Â¬ compile it and run, enjoy. Some descriptions are in Chinese, if you want more detailed version, please contact Guang Yang by Email: yang_guang@whu.edu.cn or gyang82@gatech.edu
